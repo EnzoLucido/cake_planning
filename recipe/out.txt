@@ -1,0 +1,12 @@
+Title: Kendalyn's cake!
+cake_flour_oz: 40.625
+granulated_sugar_oz: 40.625
+baking_powder_tsp: 9.375
+baking_soda_tsp: 0.78125
+salt_tsp: 1.5625
+butter_unsalted_oz: 25.0
+vanilla_extract_tsp: 6.25
+almond_extract_tsp: 3.125
+whole_milk_oz: 31.25
+vegetable_oil_oz: 9.375
+large_eggs_count: 9.375
